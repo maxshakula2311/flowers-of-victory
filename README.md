@@ -1,1 +1,1 @@
-# flowers-of-victory
+This project was made in 3.5 hours for a school assignment, so please forgive any rough edges haha
